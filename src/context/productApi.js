@@ -6,8 +6,8 @@ export const productApi = createApi({
 	reducerPath: "productApi",
 	baseQuery: fetchBaseQuery({
 		// baseUrl: "https://cheerfulexemplaryfirewall--boburmirzo-brm.repl.co",
-		// baseUrl: "http://localhost:8000"
-		baseUrl: "http://oybek.inomjon12.repl.co"
+		baseUrl: "http://localhost:8000"
+		// baseUrl: "http://oybek-shirinliklari.inomjon12.repl.co"
 	}),
 	tagTypes: ["Product"],
 	endpoints: builder => ({
