@@ -150,7 +150,6 @@ function Cart() {
 								<input
 									id="inp2"
 									type="number"
-									// placeholder="Telefon raqam"
 									placeholder="+998"
 									pattern="\d*"
 									autoComplete="off"
